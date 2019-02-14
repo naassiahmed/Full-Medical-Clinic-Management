@@ -1,0 +1,70 @@
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014\Wasfa -Nouveau 2014\bin\x86\Debug\Wasfa -Nouveau 2014.exe
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014\Wasfa -Nouveau 2014\bin\x86\Debug\Wasfa -Nouveau 2014.pdb
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014\Wasfa -Nouveau 2014\bin\x86\Debug\Wasfa -Nouveau 2014.xml
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014\Wasfa -Nouveau 2014\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.frmPatient.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.frmOrdonnance.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.Resources.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa -Nouveau 2014.vbproj.GenerateResource.Cache
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa -Nouveau 2014.exe
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa -Nouveau 2014.xml
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa -Nouveau 2014.pdb
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.frmMedecin.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.frmMed.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.frmDose.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.frmPrint1.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.frmPrint2.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.frmPrint3.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.MDIParent1.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.frmMemo.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.frmRendezVous.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.frmAbout.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.frmSettings.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.frmChrono.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.frmActivation.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.Form15.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.LoginForm1.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.frmSplash.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014-Dr.Khaldi\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa -Nouveau 2014.exe
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014-Dr.Khaldi\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa -Nouveau 2014.xml
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014-Dr.Khaldi\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa -Nouveau 2014.pdb
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014-Dr.Youcfi\Wasfa -Nouveau 2014\bin\x86\Debug\Wasfa -Nouveau 2014.exe
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014-Dr.Youcfi\Wasfa -Nouveau 2014\bin\x86\Debug\Wasfa -Nouveau 2014.pdb
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014-Dr.Youcfi\Wasfa -Nouveau 2014\bin\x86\Debug\Wasfa -Nouveau 2014.xml
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014-Dr.Youcfi\Wasfa -Nouveau 2014\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014-Dr.Youcfi\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.frmPatient.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014-Dr.Youcfi\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.frmMemo.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014-Dr.Youcfi\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.frmAbout.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014-Dr.Youcfi\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.frmSettings.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014-Dr.Youcfi\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.frmChrono.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014-Dr.Youcfi\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.frmActivation.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014-Dr.Youcfi\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.Form15.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014-Dr.Youcfi\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.frmSplash.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014-Dr.Youcfi\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.frmCertificat.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014-Dr.Youcfi\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.frmExamen.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014-Dr.Youcfi\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.frmExamenPrint1.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014-Dr.Youcfi\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.frmOrdonnance.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014-Dr.Youcfi\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.frmExamenPrint2.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014-Dr.Youcfi\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.frmPrintOtoen.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014-Dr.Youcfi\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.frmOtoenConfig.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014-Dr.Youcfi\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.frmCertificatPrescp.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014-Dr.Youcfi\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.frmCompteRendu.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014-Dr.Youcfi\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.Form25.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014-Dr.Youcfi\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.Form26.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014-Dr.Youcfi\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.Form27.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014-Dr.Youcfi\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.Form28.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014-Dr.Youcfi\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.Form29.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014-Dr.Youcfi\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.frmMedecin.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014-Dr.Youcfi\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.frmMed.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014-Dr.Youcfi\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.frmDose.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014-Dr.Youcfi\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.frmRendezVous.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014-Dr.Youcfi\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.frmPrint1.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014-Dr.Youcfi\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.frmPrint2.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014-Dr.Youcfi\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.frmPrint3.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014-Dr.Youcfi\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.LoginForm1.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014-Dr.Youcfi\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.MDIParent1.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014-Dr.Youcfi\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa__Nouveau_2014.Resources.resources
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014-Dr.Youcfi\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa -Nouveau 2014.vbproj.GenerateResource.Cache
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014-Dr.Youcfi\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa -Nouveau 2014.exe
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014-Dr.Youcfi\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa -Nouveau 2014.xml
+E:\archive\My Tools\My Tools\Wasfa Nouveau 2014\Wasfa -Nouveau 2014-Dr.Youcfi\Wasfa -Nouveau 2014\obj\x86\Debug\Wasfa -Nouveau 2014.pdb
